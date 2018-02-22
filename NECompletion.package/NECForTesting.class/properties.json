@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephaneDucasse 2/17/2018 14:54",
+	"super" : "Point",
+	"category" : "NECompletion-LogForPairHacking",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"xxx",
+		"yyy"
+	],
+	"name" : "NECForTesting",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+I represent a completion entry that is management by a ECModel and shown in the ECMenuMorph as a menu entry.
+
+Each of my subclass will represent a specific kind of entity. For example a globalvariable, self...

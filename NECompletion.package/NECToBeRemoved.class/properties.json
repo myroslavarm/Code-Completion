@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "StephaneDucasse 2/7/2018 17:02",
+	"super" : "Object",
+	"category" : "NECompletion-LogForPairHacking",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NECToBeRemoved",
+	"type" : "normal"
+}

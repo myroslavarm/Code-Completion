@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "StephaneDucasse 2/17/2018 16:00",
+	"super" : "Object",
+	"category" : "NECompletion-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"position",
+		"theClass",
+		"ranges",
+		"completionIndex",
+		"recurseCount",
+		"receiverClass",
+		"completionToken",
+		"model",
+		"controller",
+		"variables",
+		"selectors"
+	],
+	"name" : "NECContext",
+	"type" : "normal"
+}

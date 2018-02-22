@@ -1,0 +1,1 @@
+This class is a dummy so that we can check a bit how the ecompletion is working.
